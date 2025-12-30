@@ -1,0 +1,20 @@
+{
+  "name": "wpairr",
+  "version": "0.0.1",
+  "description": "unctrcode.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "build": "echo 'No build step required'"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "github:XdKing2/Malvin-Baileys",
+    "pino": "^8.1.0",
+    "express": "^4.18.1",
+    "path": "^0.12.7",
+    "megajs": "^1.3.7"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
